@@ -11,7 +11,7 @@ namespace LineComp_Oops
         public static void Main()
         {
             Console.WriteLine("----------------**** Geometry Line Comparison App ****----------------");
-            Line_Comparison.Cal_Length();
+            Line_Comparison.Equal_line();
         }
     }
 }
